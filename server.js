@@ -11,7 +11,7 @@ const app = express();
 connectDB();
 
 const corsOptions = {
-  origin: "  origin: "https://thriving-chebakia-ae0455.netlify.app/",
+  origin: "frontend link",
   credentials: true,
 };
 
